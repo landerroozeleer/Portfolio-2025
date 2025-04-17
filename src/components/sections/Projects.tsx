@@ -28,7 +28,7 @@ export const Projects = () => {
                                 rounded-full text-sm hover:bg-blue-500/20 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)]">{tech}</span>))}
                         </div>
                         <div className="flex justify-between items-center">
-                            <a target="_blank" href="https://reffurence.com" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
+                            <a target="_blank" href="https://pub.be/nl/famousgrey-veilt-zichzelf-voor-kom-op-tegen-kanker/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project →</a>
                         </div>
                     </div>
                 </div>
